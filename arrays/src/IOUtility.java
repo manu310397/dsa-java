@@ -21,6 +21,11 @@ public class IOUtility {
         return sc.nextInt();
     }
 
+    public static int getSearchElement() {
+        System.out.println("Please provide the key to be searched in an array");
+        return sc.nextInt();
+    }
+
     public static void printArray(int[] array, String msg) {
         System.out.println(msg);
         for(int i=0; i<array.length; i++) {
