@@ -7,9 +7,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="binary-search" />
+        <module name="bit-manipulation" />
         <module name="hackerrank" />
         <module name="OA" />
+        <module name="project-euler" />
+        <module name="binary-search" />
       </profile>
     </annotationProcessing>
   </component>

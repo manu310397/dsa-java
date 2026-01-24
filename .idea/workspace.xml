@@ -4,15 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="26d1d2af-4302-4637-8820-604cc665d480" name="Default Changelist" comment="Implemented LC 1482">
-      <change afterPath="$PROJECT_DIR$/array/src/LongestConsecutive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/binary-search/src/main/java/LC1011.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graph/src/PrimsAlgo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hackerrank/src/main/java/maths/CuttingPaperSquares.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hackerrank/src/main/java/maths/LeonardoPrimeFactors.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="26d1d2af-4302-4637-8820-604cc665d480" name="Default Changelist" comment="problems on binary search">
+      <change afterPath="$PROJECT_DIR$/String/src/GFG1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bit-manipulation/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/greedy/greedy.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/greedy/src/ShortestWayToFormString_LC_1055.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/heap/src/TaskScheduler_LC_621.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/math/src/LC_1266.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project-euler/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recursion/src/RatInMaze.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sliding-window/src/FruitIntoBaskets_904.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stack/src/NextSmallerElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stack/src/PrefixToInfix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OA/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/OA/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +76,7 @@
   &quot;associatedIndex&quot;: 7
 }</component>
   <component name="ProjectId" id="2CHrhz52pZYfnfsLj2Cx5I2S8rF" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+  <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -78,47 +86,74 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.AlienDict.executor": "Run",
+    "Application.Amazon.executor": "Run",
     "Application.CaesarCipher.executor": "Run",
     "Application.CeilTheFloor.executor": "Debug",
     "Application.Codec.executor": "Run",
+    "Application.CourseScheduleTopo.executor": "Debug",
     "Application.CrawlerLogFolder.executor": "Run",
     "Application.CuttingPaperSquares.executor": "Run",
+    "Application.DisjointSet.executor": "Run",
     "Application.DominatingXORPairs.executor": "Debug",
     "Application.Dominoes.executor": "Run",
     "Application.ElectronicsShop.executor": "Run",
     "Application.FactorialNumbers.executor": "Run",
+    "Application.FaultyServerDetection.executor": "Run",
+    "Application.FruitIntoBaskets_904.executor": "Run",
     "Application.FunnyString.executor": "Run",
     "Application.GCD.executor": "Run",
+    "Application.GFG1.executor": "Run",
+    "Application.GraycodeSeqGenerator.executor": "Run",
+    "Application.KSubsetsRecursiveLoop.executor": "Run",
+    "Application.KruskalsAlgo.executor": "Debug",
     "Application.LC1011.executor": "Debug",
     "Application.LC1482.executor": "Run",
+    "Application.LC3488.executor": "Run",
+    "Application.LC_1266.executor": "Debug",
     "Application.LIS.executor": "Debug",
     "Application.LeonardoPrimeFactors.executor": "Run",
     "Application.LongestConsecutive.executor": "Run",
     "Application.LowerBound.executor": "Run",
-    "Application.Main.executor": "Run",
+    "Application.Main.executor": "Debug",
     "Application.MarsExploration.executor": "Run",
+    "Application.MathChallenge.executor": "Run",
     "Application.MaximumSubArrayProduct.executor": "Run",
     "Application.MergeOverlappingIntervals.executor": "Run",
     "Application.MergeSortedArrays.executor": "Run",
     "Application.MissingAndRepeating.executor": "Run",
+    "Application.NextSmallerElement.executor": "Debug",
     "Application.Pangrams.executor": "Run",
+    "Application.Practice.executor": "Run",
+    "Application.PrefixToInfix.executor": "Run",
     "Application.PrimsAlgo.executor": "Run",
-    "Application.Runner.executor": "Run",
+    "Application.Problem_1.executor": "Run",
+    "Application.Problem_2.executor": "Run",
+    "Application.RollTheString.executor": "Run",
+    "Application.Runner.executor": "Debug",
     "Application.SearchInRotatedSortedArray2.executor": "Run",
+    "Application.ShortestWayToFormString_LC_1055.executor": "Run",
+    "Application.SofiGetMaxJobs.executor": "Run",
     "Application.Solution.executor": "Run",
+    "Application.Solution1.executor": "Run",
+    "Application.Solution2.executor": "Run",
     "Application.SpiralMatrix.executor": "Run",
+    "Application.StringExample.executor": "Debug",
     "Application.SubArraySumEqualsK.executor": "Run",
+    "Application.SubsetsLexicographic.executor": "Run",
     "Application.SumOfSquareNumbers.executor": "Run",
+    "Application.TaskScheduler_LC_621.executor": "Run",
     "Application.TwoCharacters.executor": "Run",
     "Application.WeightedUniformString.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "jdk.selected.JAVA_MODULE": "17",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/manu2931/Desktop/learning/java/reactive-systems-in-java",
+    "last_opened_file_path": "/home/manu2931/learning/dsa/OA/src/main/java/hubspot",
     "project.structure.last.edited": "SDKs",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
@@ -127,30 +162,25 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/OA/src/main/java/hubspot" />
       <recent name="E:\Studies\Java\dsa-java\linked-list\src" />
       <recent name="E:\Studies\Java\dsa-java\array\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PrimsAlgo">
-    <configuration name="CuttingPaperSquares" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="maths.CuttingPaperSquares" />
-      <module name="hackerrank" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="maths.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+  <component name="RunManager" selected="Application.RollTheString">
+    <configuration name="LC_1266" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LC_1266" />
+      <module name="math" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Dominoes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AutoDesk.Dominoes" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hubspot.Main" />
       <module name="OA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AutoDesk.*" />
+          <option name="PATTERN" value="hubspot.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -158,19 +188,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LongestConsecutive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LongestConsecutive" />
-      <module name="array" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MaxNetworkRank" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AutoDesk.MaxNetworkRank" />
+    <configuration name="RollTheString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MS.RollTheString" />
       <module name="OA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AutoDesk.*" />
+          <option name="PATTERN" value="MS.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -178,20 +201,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrimsAlgo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PrimsAlgo" />
-      <module name="graph" />
+    <configuration name="Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Runner" />
+      <module name="heap" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TaskScheduler_LC_621" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TaskScheduler_LC_621" />
+      <module name="heap" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PrimsAlgo" />
-        <item itemvalue="Application.LongestConsecutive" />
-        <item itemvalue="Application.Dominoes" />
-        <item itemvalue="Application.MaxNetworkRank" />
-        <item itemvalue="Application.CuttingPaperSquares" />
+        <item itemvalue="Application.RollTheString" />
+        <item itemvalue="Application.LC_1266" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.TaskScheduler_LC_621" />
+        <item itemvalue="Application.Runner" />
       </list>
     </recent_temporary>
   </component>
@@ -532,7 +562,63 @@
       <option name="project" value="LOCAL" />
       <updated>1723882312443</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="Implemented Prims Algorithm">
+      <option name="closed" value="true" />
+      <created>1735387113420</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1735387113420</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Implemented DisjointSet DS">
+      <option name="closed" value="true" />
+      <created>1735899945604</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1735899945604</updated>
+    </task>
+    <task id="LOCAL-00036" summary="Implemented KruskalsAlgo">
+      <option name="closed" value="true" />
+      <created>1735903953957</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1735903953957</updated>
+    </task>
+    <task id="LOCAL-00037" summary="Implemented various subset generation algorithms">
+      <option name="closed" value="true" />
+      <created>1736761628277</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1736761628278</updated>
+    </task>
+    <task id="LOCAL-00038" summary="Implemented Project Euler 1 problem">
+      <option name="closed" value="true" />
+      <created>1736804650581</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1736804650581</updated>
+    </task>
+    <task id="LOCAL-00039" summary="Implemented Project Euler problem 2">
+      <option name="closed" value="true" />
+      <created>1736807146013</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1736807146013</updated>
+    </task>
+    <task id="LOCAL-00040" summary="problems on binary search">
+      <option name="closed" value="true" />
+      <created>1742543950750</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1742543950750</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -563,13 +649,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Implemented DisappearingElements problem" />
-    <MESSAGE value="Implemented Sub array with odd product" />
-    <MESSAGE value="CountPairWithGivenSum" />
-    <MESSAGE value="Implemented Optimal solution for Permutation problem" />
-    <MESSAGE value="Implemented Optimal solution for ZeroOneMatrix problem" />
-    <MESSAGE value="Implemented Topological Sorting in a DAG" />
-    <MESSAGE value="Implemented Topological Sort using BFS&#10;Implemented cycle detection algo using TopoSort" />
     <MESSAGE value="Implemented ShortestPathInDag" />
     <MESSAGE value="Implemented Counting sort" />
     <MESSAGE value="Implemented Fib using DP" />
@@ -588,7 +667,14 @@
     <MESSAGE value="Implemented solutions to binary search problems" />
     <MESSAGE value="Implemented Search In Rotated sorted array 2 leet code solution" />
     <MESSAGE value="Implemented LC 1482" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implemented LC 1482" />
+    <MESSAGE value="Implemented Prims Algorithm" />
+    <MESSAGE value="Implemented DisjointSet DS" />
+    <MESSAGE value="Implemented KruskalsAlgo" />
+    <MESSAGE value="Implemented various subset generation algorithms" />
+    <MESSAGE value="Implemented Project Euler 1 problem" />
+    <MESSAGE value="Implemented Project Euler problem 2" />
+    <MESSAGE value="problems on binary search" />
+    <option name="LAST_COMMIT_MESSAGE" value="problems on binary search" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -789,11 +875,6 @@
           <option name="timeStamp" value="75" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/heap/src/MaxHeap.java</url>
-          <line>88</line>
-          <option name="timeStamp" value="76" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/two-pointer/src/SumOfSquareNumbers.java</url>
           <line>9</line>
           <option name="timeStamp" value="78" />
@@ -933,7 +1014,97 @@
           <line>44</line>
           <option name="timeStamp" value="113" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/OA/src/main/java/MS/Solution1.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="114" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/graph/src/KruskalsAlgo.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="115" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/array/src/KSubsetsRecursiveLoop.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="117" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/graph/src/AlienDict.java</url>
+          <line>84</line>
+          <option name="timeStamp" value="119" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/graph/src/AlienDict.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="123" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/binary-search/src/main/java/LC3488.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="126" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/binary-search/src/main/java/SofiGetMaxJobs.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="128" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/stack/src/PrefixToInfix.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="129" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/String/src/GFG1.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="130" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/stack/src/NextSmallerElement.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="134" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/sliding-window/src/FruitIntoBaskets_904.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="135" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/heap/src/MaxHeap.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="136" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/heap/src/MaxHeap.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="137" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/heap/src/TaskScheduler_LC_621.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="140" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/OA/src/main/java/hubspot/Main.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="141" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/math/src/LC_1266.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="144" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/math/src/LC_1266.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="145" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="com.fasterxml.jackson.databind.node.ObjectNode" memberName="_children" />
+      </pinned-members>
+    </pin-to-top-manager>
   </component>
 </project>
